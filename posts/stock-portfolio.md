@@ -5,6 +5,15 @@ date: '2023-03-01'
 
 # 個人股票投資組合
 
+## Videos
+
+[使用過程](https://www.youtube.com/watch?v=vMZjs1OdHCw)
+[即時更新](https://github.com/leojudya/ISpan.StockPortfolio/raw/main/Presentation/%E8%87%AA%E5%8B%95%E6%9B%B4%E6%96%B0.mp4)
+
+## Github
+
+[專案連結](https://github.com/leojudya/ISpan.StockPortfolio)
+
 ## Database Tables Design
 ![image](https://i.imgur.com/oT5XkwG.png)
 
